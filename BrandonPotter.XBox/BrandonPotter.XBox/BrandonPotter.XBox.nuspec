@@ -2,7 +2,7 @@
 <package >
   <metadata>
     <id>XBoxController</id>
-    <version>$version$</version>
+    <version>1.1</version>
     <title>XBox Controller Input Library</title>
     <authors>BrandonPotter</authors>
     <owners>BrandonPotter</owners>
